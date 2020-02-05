@@ -1,8 +1,8 @@
 ## Construction
 
-<img src="images/apple_media.jpg?raw=true" width = "100"/>| Apple Media
-<img src="images/apple_media.jpg?raw=true" width = "100"/>| Brick & Machine
-<img src="images/apple_media.jpg?raw=true" width = "100"/>| [Academy Museum](https://www.academymuseum.org/)
-<img src="images/apple_media.jpg?raw=true" width = "100"/>| USC Verna & Peter Dauterive Hall
-<img src="images/apple_media.jpg?raw=true" width = "100"/>| USC Heritage Hall
-<img src="images/apple_media.jpg?raw=true" width = "100"/>| [Getty Villa Renovation](https://annacjacobson.github.io/thegettyvilla)
+<img src="images/Picture12.png?raw=true"/>| APPLE MEDIA <br>Preconstruction and construction services for new 280,000 SF digital media office for Apple, including private offices, collaborative workspaces, and state-of-the-art production and screening rooms.
+<img src="images/Picture12.png?raw=true"/>| BRICK & MACHINE
+<img src="images/Picture12.png?raw=true"/>| [Academy Museum](https://www.academymuseum.org/) <br>Preconstruction and construction services for adaptive reuse of the 1938 Wilshire May Co. Building to create new museum for the Academy of Motion Pictures, as well as construction of a new 1,000-seat theater designed by Renzo Piano.
+<img src="images/Picture12.png?raw=true"/>| USC Verna & Peter Dauterive Hall
+<img src="images/Picture12.png?raw=true"/>| USC Heritage Hall
+<img src="images/Picture12.png?raw=true"/>| [Getty Villa Renovation](https://annacjacobson.github.io/thegettyvilla)
