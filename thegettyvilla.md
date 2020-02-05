@@ -6,10 +6,9 @@
 
 <img src="images/getty_villa_1.jpg?raw=true" width = "500"/>
 
+<img src="images/getty_villa_3.jpg?raw=true" width = "225"/>                        <img src="images/getty_villa_4.jpg?raw=true" width = "225"/>
+
 <img src="images/getty_villa_2.jpg?raw=true" width = "500"/>
-
-<img src="images/getty_villa_3.jpg?raw=true" width = "225"/>      <img src="images/getty_villa_4.jpg?raw=true" width = "225"/>
-
 
 
 
