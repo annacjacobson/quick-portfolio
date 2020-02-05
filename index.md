@@ -19,8 +19,10 @@
 
 ### Construction
 
-[Apple Media]
+Apple Media
 <img src="images/apple_media.jpg?raw=true"/>
+
+---
 
 [Getty Villa Renovation](/thegettyvilla)
 
