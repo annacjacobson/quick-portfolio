@@ -24,7 +24,7 @@ Apple Media
 
 ---
 
-[Getty Villa Renovation](/thegettyvilla)
+[Getty Villa Renovation](https://annacjacobson.github.io/thegettyvilla)
 
 ---
 
