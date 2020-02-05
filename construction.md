@@ -1,6 +1,6 @@
 ## Construction
 
-<img src="images/Picture12.png?raw=true"/ width="200">| APPLE MEDIA <br>Preconstruction and construction services for new 280,000 SF digital media office for Apple, including private offices, collaborative workspaces, and state-of-the-art production and screening rooms.
+<img src="images/Picture12.png?raw=true" width="200"/>| APPLE MEDIA <br>Preconstruction and construction services for new 280,000 SF digital media office for Apple, including private offices, collaborative workspaces, and state-of-the-art production and screening rooms.
 <img src="images/Picture12.png?raw=true"/>| BRICK & MACHINE
 <img src="images/Picture12.png?raw=true"/>| [ACADEMY MUSEUM](https://www.academymuseum.org/) <br>Preconstruction and construction services for adaptive reuse of the 1938 Wilshire May Co. Building to create new museum for the Academy of Motion Pictures, as well as construction of a new 1,000-seat theater designed by Renzo Piano.
 <img src="images/Picture12.png?raw=true"/>| UNIVERSITY OF SOUTHERN CALIFORNIA <br>VERNA & PETER DAUTERIVE HALL <br>Preconstruction and construction services for renovation of historic 70,000 SF Department of Intercollegiate Athletics building.
