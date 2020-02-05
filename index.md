@@ -1,7 +1,7 @@
 # Portfolio
 ---
 
-### [Data Science]((https://annacjacobson.github.io/data_science) 
+### [Data Science](https://annacjacobson.github.io/data_science) 
 
 ### Construction
 
