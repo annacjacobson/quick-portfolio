@@ -19,13 +19,10 @@
 
 ### Construction
 
-- [Apple Media]
+[Apple Media]
 <img src="images/apple_media.jpg?raw=true"/>
 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Getty Villa Renovation](/thegettyvilla)
 
 ---
 
