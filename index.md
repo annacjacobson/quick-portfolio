@@ -13,7 +13,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true" width = "100"/>| [The Askeladden Algorithm](https://github.com/annacjacobson/207_FinalProject_Askeladden)
 
 ---
-<img src="images/dummy_thumbnail.jpg?raw=true" width = "100"/>| [Fainess in the Age of Algorithms](https://medium.com/berkeleyischool/fairness-in-the-age-of-algorithms-feb11c56a709)
+<img src="images/dummy_thumbnail.jpg?raw=true" width = "100"/>| [Fairness in the Age of Algorithms](https://medium.com/berkeleyischool/fairness-in-the-age-of-algorithms-feb11c56a709)
 
 ---
 <img src="images/dummy_thumbnail.jpg?raw=true" width = "100"/>| [The Value Proposition of Good Government](https://www.behance.net/gallery/76704737/WDVP-2019-The-Value-Proposition-of-Good-Government)
