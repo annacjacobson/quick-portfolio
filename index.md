@@ -4,15 +4,31 @@
 
 ### Data Science 
 
-[Project 1 Title](/sample_page)
+[Populations of Concern: Refugees in the United States](https://www.behance.net/gallery/87351527/Populations-of-Concern-Refugees-in-the-United-States?tracking_source=project_owner_other_projects)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[The Value Exchange of the Digital Age](https://medium.com/berkeleyischool/the-value-exchange-of-the-digital-age-9d44ddd2d0c0)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[The Askeladden Algorithm](https://github.com/annacjacobson/207_FinalProject_Askeladden)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Fainess in the Age of Algorithms](https://medium.com/berkeleyischool/fairness-in-the-age-of-algorithms-feb11c56a709)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[The Value Proposition of Good Government](https://www.behance.net/gallery/76704737/WDVP-2019-The-Value-Proposition-of-Good-Government)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[The Building Blocks of Gender Equality: Health, Education, and Employment](https://datastudio.google.com/u/0/reporting/1tlqT8tm00MX9md_f4DitMSVqWbk-6oK0)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Women at MOMA: The First 60 Years](https://medium.com/berkeleyischool/women-at-moma-the-first-60-years-383d6b98f4f)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -20,10 +36,10 @@
 ### Construction
 
 Apple Media
-<img src="images/apple_media.jpg?raw=true"/>
+
+<img src="images/apple_media.jpg?raw=true" width = "2500"/>
 
 ---
-
 [Getty Villa Renovation](https://annacjacobson.github.io/thegettyvilla)
 
 ---
