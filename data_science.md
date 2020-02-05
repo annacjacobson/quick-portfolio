@@ -6,4 +6,4 @@
 <img src="images/Picture24.png?raw=true"/>| [**Fairness in the Age of Algorithms**](https://medium.com/berkeleyischool/fairness-in-the-age-of-algorithms-feb11c56a709)
 <img src="images/Picture25.png?raw=true"/>| [**The Value Proposition of Good Government**](https://www.behance.net/gallery/76704737/WDVP-2019-The-Value-Proposition-of-Good-Government)
 <img src="images/Picture26.png?raw=true"/>| [**The Building Blocks of Gender Equality: Health, Education, and Employment**](https://datastudio.google.com/u/0/reporting/1tlqT8tm00MX9md_f4DitMSVqWbk-6oK0)
-<img src="images/Picture27.png?raw=true"/>| [Women at MOMA: The First 60 Years](https://medium.com/berkeleyischool/women-at-moma-the-first-60-years-383d6b98f4f)
+<img src="images/Picture27.png?raw=true"/>| [**Women at MOMA: The First 60 Years**](https://medium.com/berkeleyischool/women-at-moma-the-first-60-years-383d6b98f4f)
