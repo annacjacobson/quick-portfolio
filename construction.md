@@ -1,7 +1,7 @@
 ## Construction
 
 <img src="images/Picture12.png?raw=true"/>| **APPLE MEDIA**
-<img src="images/Picture12.png?raw=true"/>| **BRICK & MACHINE**
+<img src="images/Picture37.png?raw=true"/>| **BRICK & MACHINE**
 <img src="images/Picture13.png?raw=true"/>| [**ACADEMY MUSEUM**](https://www.academymuseum.org/)
 <img src="images/Picture14.png?raw=true"/>| **USC VERNA & PETER DAUTERIVE HALL**
 <img src="images/Picture15.png?raw=true"/>| **USC HERITAGE HALL**
