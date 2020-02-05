@@ -5,7 +5,7 @@
 ### Data Science 
 
 <img src="images/dummy_thumbnail.jpg?raw=true" width = "100"/>| [Populations of Concern: Refugees in the United States](https://www.behance.net/gallery/87351527/Populations-of-Concern-Refugees-in-the-United-States?tracking_source=project_owner_other_projects)
-
+<img src="images/dummy_thumbnail.jpg?raw=true" width = "100"/>| [Populations of Concern: Refugees in the United States](https://www.behance.net/gallery/87351527/Populations-of-Concern-Refugees-in-the-United-States?tracking_source=project_owner_other_projects)
 <img src="images/dummy_thumbnail.jpg?raw=true" width = "100"/>| [The Value Exchange of the Digital Age](https://medium.com/berkeleyischool/the-value-exchange-of-the-digital-age-9d44ddd2d0c0)
 
 ---
