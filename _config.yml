@@ -4,9 +4,10 @@ exclude:
 title: Anna C. Jacobson # your name (or website title) here
 logo: "/images/logo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Engineer | Project Manager | Data Scientist 
   <br><br>
-  Second description 
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  <br><br>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
   <br><br>
 
   <br><br>
@@ -15,6 +16,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.behance.net/annacjacobson">Behance</a>
   <br><br>
   <a href="https://medium.com/@annacjacobson">Medium</a> 
+  <br><br>
+  <a href="https://www.flickr.com/photos/27309894@N02/with/48581980482/">Flickr</a> 
   
 theme: jekyll-theme-minimal
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
