@@ -4,7 +4,7 @@
 
 ### Data Science 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/> | [Populations of Concern: Refugees in the United States](https://www.behance.net/gallery/87351527/Populations-of-Concern-Refugees-in-the-United-States?tracking_source=project_owner_other_projects)
+<img src="images/dummy_thumbnail.jpg?raw=true" width = "100"/> | [Populations of Concern: Refugees in the United States](https://www.behance.net/gallery/87351527/Populations-of-Concern-Refugees-in-the-United-States?tracking_source=project_owner_other_projects)
 
 ---
 [The Value Exchange of the Digital Age](https://medium.com/berkeleyischool/the-value-exchange-of-the-digital-age-9d44ddd2d0c0)
@@ -35,7 +35,7 @@
 
 Apple Media
 
-<img src="images/apple_media.jpg?raw=true" width = "2500"/>
+<img src="images/apple_media.jpg?raw=true" width = "500"/>
 
 ---
 [Getty Villa Renovation](https://annacjacobson.github.io/thegettyvilla)
