@@ -1,4 +1,4 @@
-## Portfolio
+## P O R T F O L I O
 
 [<img src="images/Picture2.png?raw=true" width="150"/>](https://annacjacobson.github.io/data_science)|[**DATA SCIENCE**](https://annacjacobson.github.io/data_science)
 [<img src="images/Picture3.png?raw=true" width="150"/>](https://annacjacobson.github.io/construction)|[**CONSTRUCTION**](https://annacjacobson.github.io/construction)
@@ -7,7 +7,7 @@
 
 <br><br/>
 
-## Other Information
+## O T H E R   I N F O R M A T I O N
 
 [<img src="images/Picture8.png?raw=true" width="150"/>](https://annacjacobson.github.io/honors_awards)|[**HONORS & AWARDS**](https://annacjacobson.github.io/honors_awards)
 [<img src="images/Picture11.png?raw=true" width="150"/>](https://annacjacobson.github.io/tech)|[**TECHNICAL COMPETENCIES**](https://annacjacobson.github.io/tech)
