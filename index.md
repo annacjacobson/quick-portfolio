@@ -4,7 +4,7 @@
 [<img src="images/Picture3.png?raw=true" width="150"/>](https://annacjacobson.github.io/construction)|[**CONSTRUCTION**](https://annacjacobson.github.io/construction)
 [<img src="images/Picture4.png?raw=true" width="150"/>](https://annacjacobson.github.io/design)|[**GRAPHIC DESIGN**](https://annacjacobson.github.io/design)
 
----
+
 
 ## Other Information
 
