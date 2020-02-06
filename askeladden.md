@@ -2,6 +2,8 @@
 **UC Berkeley | Applied Machine Learning**<br>
 *With Laura Pintos and Ramiro Cadavid*
 
+---
+
 ### Project Description
 A machine learning project using Natural Language Processing (NLP) to develop an algorithmic classification system to help Twitter to identify Internet Research Agency “fake news” Russian troll tweets.
 
