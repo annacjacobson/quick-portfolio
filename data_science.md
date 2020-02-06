@@ -1,3 +1,5 @@
+[<img src="images/arrow_back.png?raw=true" width="30"/>](/index)
+
 ## Data Science
 
 [<img src="images/Picture23.png?raw=true"/>](/askeladden)| [**The Askeladden Algorithm**](/askeladden)
