@@ -27,7 +27,3 @@ The purpose of this project is to develop a machine learning algorithm to predic
 <img src="images/askeladden_15.png?raw=true"/> 
 
 <img src="images/askeladden_24.png?raw=true"/>
-
----
-
-<p style="font-size:11px">See the complete project repository with code at <a href="https://github.com/annacjacobson/207_FinalProject_Askeladden">The Askeladden Algorithm.</a></p>
