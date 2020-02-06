@@ -1,3 +1,5 @@
+[<img src="images/arrow_back.png?raw=true" width="30"/>](/index)
+
 ## Education
 
 2020| [University of California, Berkeley – Master of Information and Data Science](https://datascience.berkeley.edu/)
