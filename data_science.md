@@ -1,6 +1,6 @@
 ## Data Science
 
-[<img src="images/Picture23.png?raw=true"/>](/askeladden.md)| [**The Askeladden Algorithm**](/askeladden.md)
+[<img src="images/Picture23.png?raw=true"/>](/askeladden)| [**The Askeladden Algorithm**](/askeladden)
 <img src="images/Picture36.png?raw=true"/>| [**Populations of Concern: Refugees in the United States**](https://www.behance.net/gallery/87351527/Populations-of-Concern-Refugees-in-the-United-States)
 <img src="images/Picture38.png?raw=true"/>| [**Mass Shootings in America (1980-2019)**](https://www.behance.net/gallery/83830699/Mass-Shootings-in-America-%281980-2019%29)
 <img src="images/Picture22.png?raw=true"/>|[**The Value Exchange of the Digital Age**](https://medium.com/berkeleyischool/the-value-exchange-of-the-digital-age-9d44ddd2d0c0) 
