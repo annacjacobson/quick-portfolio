@@ -1,3 +1,5 @@
+[<img src="images/arrow_back.png?raw=true" width="30"/>](/index)
+
 ## Technical Competencies
 
 Data science skills, including research design, exploratory data analysis, data engineering, statistical inference, predictive analytics, model building, data visualization, and communications about data with business stakeholders and clients
