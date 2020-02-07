@@ -1,39 +1,30 @@
 [<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science)
 
-## [The Building Blocks of Gender Equality: Health, Education, and Employment](https://www.behance.net/gallery/87351527/Populations-of-Concern-Refugees-in-the-United-States)
-**Google Cloud**<br>
+## [The Building Blocks of Gender Equality: Health, Education, and Employment](https://datastudio.google.com/u/0/reporting/1tlqT8tm00MX9md_f4DitMSVqWbk-6oK0)
+**Google Cloud | Visualize 2030 Data Storytelling Competition**<br>
 
 ---
 
 ### Project Description
-A data-informed portrait of refugees and asylum seekers in the United States from 1988 through 2018.
+An interactive data narrative created from United Nations Sustainable Development Indicators dataset. [Winner of the Visualize 2030 competition.](https://cloud.google.com/visualize-2030/#meet-the-winners)
 
 ### Skills 
-Data Analysis, Data Visualization
+Critical Thinking, Data Analysis, Data Visualization
 
 ### Tools 
-Adobe InDesign, Microsoft Excel
+Google Data Studio
 
 ---
 
-#### Introduction
+#### Motivation
 
-Under a new refugee admissions ceiling announced by the United States State Department in September 2019, the Trump administration plans to admit a maximum of 18,000 refugees to the US in fiscal year 2020, a 40% reduction from the previous record low cap of 30,000 in fiscal year 2019. If this promise is fulfilled, it will be the lowest number of refugees resettled by the US in a single year since 1980, when Congress created the nation’s refugee resettlement program.
+Gender equality is a fundamental human right: all people are entitled to the same freedoms and opportunities, regardless of sex. Promoting and protecting gender equality, like all human rights, is a worthy development goal in itself. 
 
-Even before the administration’s announcement, refugee resettlement in the U.S. had dropped to historic lows during Trump’s presidency, according to a Pew Research Center analysis of State Department data. Overall, the US admitted about 76,200 refugees under the Trump administration from Janunary 2017 through September 2019. By comparison, the US admitted nearly 85,000 refugees in fiscal 2016 alone,
-the last full fiscal year of the Obama administration. This decline in US refugee admissions comes at a time when the number of refugees worldwide has reached the highest levels since World War II. Most are hosted by other developing nations, those which can least afford to take care of them.
-
-With the words “Give me your tired, your poor, your huddled masses yearning to breathe free” are emblazoned on our country’s front door, understanding the history and origins of refugees in the US is critical to all Americans’ understanding of themselves. Our generosity toward our populations of concern is essential to our patriotism. We withhold that generosity at our peril. 
+However, because gender equality must be embodied in our core social structures to have impact, it also intersects with other development goals that rely on these structures. In particular, gender equality has a symbiotic relationship with health, education, and employment. Gains in each of these areas have the potential to dramatically improve gender equality - and gains in gender equality will necessarily result in improvements in these areas. 
 
 ---
 
-<img src="images/CGDV2.png?raw=true"/>
-
-<img src="images/CGDV3.png?raw=true"/> 
-
-<img src="images/CGDV4.png?raw=true"/>
-
-<img src="images/CGDV5.png?raw=true"/>
+<img src="images/visualize2030_1?raw=true"/>
 
 ---
-<p style="font-size:11px">See the complete project on <a href="https://www.behance.net/gallery/87351527/Populations-of-Concern-Refugees-in-the-United-States">Behance.</a></p>
+<p style="font-size:11px">See the complete project on <a href="https://datastudio.google.com/u/0/reporting/1tlqT8tm00MX9md_f4DitMSVqWbk-6oK0">Google Data Studio.</a></p>
