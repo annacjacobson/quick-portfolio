@@ -1,6 +1,6 @@
 ## P O R T F O L I O
 
-[<img src="images/Picture2.png?raw=true" width="150"/>](https://annacjacobson.github.io/data_science/data_science)|[**DATA SCIENCE**](https://annacjacobson.github.io/data_science)
+[<img src="images/Picture2.png?raw=true" width="150"/>](https://annacjacobson.github.io/data_science/index)|[**DATA SCIENCE**](https://annacjacobson.github.io/data_science/index)
 [<img src="images/Picture3.png?raw=true" width="150"/>](https://annacjacobson.github.io/construction/construction)|[**CONSTRUCTION**](https://annacjacobson.github.io/construction/construction)
 [<img src="images/Picture4.png?raw=true" width="150"/>](https://annacjacobson.github.io/design)|[**GRAPHIC DESIGN**](https://annacjacobson.github.io/design)
 [<img src="images/Picture5.png?raw=true" width="150"/>](https://annacjacobson.github.io/writing)|[**WRITING**](https://annacjacobson.github.io/writing)
