@@ -24,7 +24,7 @@ However, because gender equality must be embodied in our core social structures 
 
 ---
 
-<img src="images/visualize2030_1?raw=true"/>
+<img src="images/visualize2030_1.png?raw=true"/>
 
 ---
 <p style="font-size:11px">See the complete project on <a href="https://datastudio.google.com/u/0/reporting/1tlqT8tm00MX9md_f4DitMSVqWbk-6oK0">Google Data Studio.</a></p>
