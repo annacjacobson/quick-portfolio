@@ -7,13 +7,13 @@
 
 ---
 
-### Project Description
+#### Project Description
 An interactive data narrative created from United Nations Sustainable Development Indicators dataset. [Winner of the Visualize 2030 competition.](https://cloud.google.com/visualize-2030/#meet-the-winners)
 
-### Skills 
+#### Skills 
 Critical Thinking, Data Analysis, Data Visualization
 
-### Tools 
+#### Tools 
 Google Data Studio
 
 ---
