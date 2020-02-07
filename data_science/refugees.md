@@ -7,13 +7,13 @@
 
 ---
 
-### Project Description
+#### Project Description
 A data-informed portrait of refugees and asylum seekers in the United States from 1988 through 2018.
 
-### Skills 
+#### Skills 
 Data Analysis, Data Visualization
 
-### Tools 
+#### Tools 
 Adobe InDesign, Microsoft Excel
 
 ---
