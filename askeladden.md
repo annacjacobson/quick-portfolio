@@ -1,7 +1,8 @@
 [<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science)
 
-[<img src="images/Picture23.png?raw=true"/>](https://github.com/annacjacobson/207_FinalProject_Askeladden)| <p style="font-size:18px"><a href="https://github.com/annacjacobson/207_FinalProject_Askeladden">The Askeladden Algorithm</a></p>
+[<img src="images/Picture23.png?raw=true"/>](https://github.com/annacjacobson/207_FinalProject_Askeladden)
 
+# The Askeladden Algorithm
 **UC Berkeley | Applied Machine Learning**<br>
 *With Laura Pintos and Ramiro Cadavid*
 
