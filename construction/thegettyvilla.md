@@ -1,5 +1,7 @@
 [<img src="images/arrow_back.png?raw=true" width="30"/>](/construction)
 
+<img src="images/getty_2.png?raw=true"/>
+
 ## [The Getty Villa](https://www.getty.edu/visit/villa/)
 
 ---
