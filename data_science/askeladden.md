@@ -1,4 +1,4 @@
-[<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science)
+[<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science/index)
 
 [<img src="images/askeladden_1.png?raw=true"/>](https://github.com/annacjacobson/207_FinalProject_Askeladden)
 
