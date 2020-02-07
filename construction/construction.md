@@ -12,4 +12,4 @@
 <img src="images/Picture18.png?raw=true"/>| **LOS ANGELES COUNTY MUSEUM OF ART CANTOR SCULPTURE GARDEN**
 <img src="images/Picture19.png?raw=true"/>| **USC ARTS & HUMANTITIES RESIDENTIAL COLLEGE**
 <img src="images/Picture20.png?raw=true"/>| **SANTA MONICA PUBLIC LIBRARY**
-<img src="images/Picture21.png?raw=true"/>| [**GETTY VILLA**](construction/thegettyvilla)
+[<img src="images/Picture21.png?raw=true"/>](construction/thegettyvilla)| [**GETTY VILLA**](construction/thegettyvilla)
