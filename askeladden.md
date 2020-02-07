@@ -8,13 +8,13 @@
 
 ---
 
-### Project Description
+#### Project Description
 A machine learning project to develop an algorithmic classification system to help Twitter to identify Internet Research Agency “fake news” Russian troll tweets.
 
-### Skills 
+#### Skills 
 Machine Learning, Natural Language Processing (NLP), Web Scraping, Data Cleansing, Written Communication, Data Visualization
 
-### Tools 
+#### Tools 
 Python, SciKit-Learn, Pandas, NumPy, Matplotlib, and Jupyter Notebook
 
 ---
