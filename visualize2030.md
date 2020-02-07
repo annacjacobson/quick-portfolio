@@ -1,5 +1,7 @@
 [<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science)
 
+[<img src="images/visualize2030_2.png?raw=true"/>](https://datastudio.google.com/u/0/reporting/1tlqT8tm00MX9md_f4DitMSVqWbk-6oK0)
+
 ## [The Building Blocks of Gender Equality: Health, Education, and Employment](https://datastudio.google.com/u/0/reporting/1tlqT8tm00MX9md_f4DitMSVqWbk-6oK0)
 **Google Cloud | Visualize 2030 Data Storytelling Competition**<br>
 
