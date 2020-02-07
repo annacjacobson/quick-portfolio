@@ -10,7 +10,7 @@
 #### Project Description
 A visual essay about mass shootings in the United States from 1980 through 2019.
 
-### Skills 
+#### Skills 
 Research, Data Analysis, Data Visualization
 
 #### Tools 
