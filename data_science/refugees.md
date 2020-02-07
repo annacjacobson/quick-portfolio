@@ -1,4 +1,4 @@
-[<img src="images/arrow_back.png?raw=true" width="30"/><p style="font-size:11px">MORE DATA SCIENCE</p>](/data_science/index)
+[<img src="images/arrow_back.png?raw=true" width="30"/><style="font-size:11px">MORE DATA SCIENCE](/data_science/index)
 
 [<img src="images/CGDV1.png?raw=true"/>](https://www.behance.net/gallery/87351527/Populations-of-Concern-Refugees-in-the-United-States)
 
