@@ -16,7 +16,7 @@ Adobe InDesign, Microsoft Excel
 
 ---
 
-#### Introduction
+#### Motivation
 
 Under a new refugee admissions ceiling announced by the United States State Department in September 2019, the Trump administration plans to admit a maximum of 18,000 refugees to the US in fiscal year 2020, a 40% reduction from the previous record low cap of 30,000 in fiscal year 2019. If this promise is fulfilled, it will be the lowest number of refugees resettled by the US in a single year since 1980, when Congress created the nation’s refugee resettlement program.
 
