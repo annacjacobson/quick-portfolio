@@ -1,6 +1,6 @@
 [<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science/index)
 
-<img src="images/shootings_2.jpg?raw=true"/>
+<img src="images/shootings_2.png?raw=true"/>
 
 ## [Mass Shootings in America (1980-2019)](https://www.behance.net/gallery/83830699/Mass-Shootings-in-America-%281980-2019%29)
 **Independent Project**<br>
