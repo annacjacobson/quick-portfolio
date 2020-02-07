@@ -27,10 +27,10 @@ With the words “Give me your tired, your poor, your huddled masses yearning to
 
 ---
 
-<img src="images/CDGV2.png?raw=true"/>
+<img src="images/CGDV2.png?raw=true"/>
 
-<img src="images/CDGV3.png?raw=true"/> 
+<img src="images/CGDV3.png?raw=true"/> 
 
-<img src="images/CDGV4.png?raw=true"/>
+<img src="images/CGDV4.png?raw=true"/>
 
-<img src="images/CDGV5.png?raw=true"/>
+<img src="images/CGDV5.png?raw=true"/>
