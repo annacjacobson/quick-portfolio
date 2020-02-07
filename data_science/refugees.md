@@ -1,7 +1,4 @@
-[<p><img src="images/arrow_back.png?raw=true" width="30" align="left">DATA SCIENCE</p>](/data_science/index)
-[<p><img src="images/arrow_back.png?raw=true" width="30" align="left">GRAPHIC DESIGN</p>](/design)
-<br>
-
+[<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science/index)
 
 [<img src="images/CGDV1.png?raw=true"/>](https://www.behance.net/gallery/87351527/Populations-of-Concern-Refugees-in-the-United-States)
 
