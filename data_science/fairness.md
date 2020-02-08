@@ -1,6 +1,6 @@
 [<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science/index)
 
-[img src="images/fairness_1.png?raw=true" width="30"/>](https://medium.com/berkeleyischool/fairness-in-the-age-of-algorithms-feb11c56a709)
+[<img src="images/fairness_1.png?raw=true">](https://medium.com/berkeleyischool/fairness-in-the-age-of-algorithms-feb11c56a709)
 
 ## [Fairness in the Age of Algorithms](https://medium.com/berkeleyischool/fairness-in-the-age-of-algorithms-feb11c56a709)
 **UC Berkeley | Data Ethics**<br>
@@ -24,7 +24,7 @@ Of all of the exciting work taking place in the field of data science, the machi
 
 ---
 
-[img src="images/fairness_2.png?raw=true" width="30"/>](https://medium.com/berkeleyischool/fairness-in-the-age-of-algorithms-feb11c56a709)
+[<img src="images/fairness_2.png?raw=true"/>](https://medium.com/berkeleyischool/fairness-in-the-age-of-algorithms-feb11c56a709)
 
 ---
 <p style="font-size:11px">See the complete project on <a href="https://medium.com/berkeleyischool/fairness-in-the-age-of-algorithms-feb11c56a709">Medium.</a></p>
