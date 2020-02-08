@@ -8,5 +8,5 @@
 [<img src="images/Picture38.png?raw=true"/>](/data_science/shootings)| [**Mass Shootings in America (1980-2019)**](/data_science/shootings)
 [<img src="images/Picture24.png?raw=true"/>](/data_science/fairness)| [**Fairness in the Age of Algorithms**](/data_science/fairness)
 [<img src="images/Picture25.png?raw=true"/>](/data_science/government)| [**The Value Proposition of Good Government**](/data_science/government)
-[<img src="images/Picture27.png?raw=true"/>](https://medium.com/berkeleyischool/women-at-moma-the-first-60-years-383d6b98f4f)| [**Women at MOMA: The First 60 Years**](https://medium.com/berkeleyischool/women-at-moma-the-first-60-years-383d6b98f4f)
-[<img src="images/Picture22.png?raw=true"/>](https://medium.com/berkeleyischool/the-value-exchange-of-the-digital-age-9d44ddd2d0c0) |[**The Value Exchange of the Digital Age**](https://medium.com/berkeleyischool/the-value-exchange-of-the-digital-age-9d44ddd2d0c0) 
+[<img src="images/Picture27.png?raw=true"/>](/data_science/moma)| [**Women at MOMA: The First 60 Years**](/data_science/moma)
+[<img src="images/Picture22.png?raw=true"/>](/data_science/value_exchange) |[**The Value Exchange of the Digital Age**](/data_science/value_exchange) 
