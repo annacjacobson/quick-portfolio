@@ -1,39 +1,27 @@
-[<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science)
+[<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science/index)
 
-## [The Value Exchange of the Digital Age](https://www.behance.net/gallery/87351527/Populations-of-Concern-Refugees-in-the-United-States)
-**Independent Project**<br>
-
----
-
-### Project Description
-A data-informed portrait of refugees and asylum seekers in the United States from 1988 through 2018.
-
-### Skills 
-Data Analysis, Data Visualization
-
-### Tools 
-Adobe InDesign, Microsoft Excel
+## [The Value Exchange of the Digital Age](https://medium.com/berkeleyischool/the-value-exchange-of-the-digital-age-9d44ddd2d0c0)
+**UC Berkeley | Behind the Data - Humans and Values**
+*With Hanna Rocks and Jay Venkata*<br>
 
 ---
 
-#### Introduction
+#### Project Description
+A white paper on the legal and ethical dimensions of the changing terms of the value exchange between businesses and consumers in the 21st century, using Instagram, Fitbit, and Stitch Fix as case studies.
 
-Under a new refugee admissions ceiling announced by the United States State Department in September 2019, the Trump administration plans to admit a maximum of 18,000 refugees to the US in fiscal year 2020, a 40% reduction from the previous record low cap of 30,000 in fiscal year 2019. If this promise is fulfilled, it will be the lowest number of refugees resettled by the US in a single year since 1980, when Congress created the nation’s refugee resettlement program.
+#### Skills 
+Research, Observational Study, Critical Thinking, Written Communication, Data Analysis, Data Visualization
 
-Even before the administration’s announcement, refugee resettlement in the U.S. had dropped to historic lows during Trump’s presidency, according to a Pew Research Center analysis of State Department data. Overall, the US admitted about 76,200 refugees under the Trump administration from Janunary 2017 through September 2019. By comparison, the US admitted nearly 85,000 refugees in fiscal 2016 alone,
-the last full fiscal year of the Obama administration. This decline in US refugee admissions comes at a time when the number of refugees worldwide has reached the highest levels since World War II. Most are hosted by other developing nations, those which can least afford to take care of them.
-
-With the words “Give me your tired, your poor, your huddled masses yearning to breathe free” are emblazoned on our country’s front door, understanding the history and origins of refugees in the US is critical to all Americans’ understanding of themselves. Our generosity toward our populations of concern is essential to our patriotism. We withhold that generosity at our peril. 
-
----
-
-<img src="images/CGDV2.png?raw=true"/>
-
-<img src="images/CGDV3.png?raw=true"/> 
-
-<img src="images/CGDV4.png?raw=true"/>
-
-<img src="images/CGDV5.png?raw=true"/>
+#### Tools 
+Microsoft Excel
 
 ---
-<p style="font-size:11px">See the complete project on <a href="https://www.behance.net/gallery/87351527/Populations-of-Concern-Refugees-in-the-United-States">Behance.</a></p>
+
+#### Motivation
+
+In today’s media-saturated world, competition for the attention and loyalty of consumers is unprecedented. The digital age has brought new challenges for companies, but it has also created opportunities for new and creative ways of reaching and engaging customers. Carefully designed user experiences have been a very important driver for companies to target, interact with and attract consumers. However, while consumers value the incredible increase in products and services now available at the click of a button, they are often unaware of how companies are able to identify and collect their personal information to achieve mission and revenue goals. Businesses, on the other hand, are constantly navigating the poorly-defined boundary between personal privacy and staying ahead of consumer needs in a time when data is cheap and relatively easy to access. Invading personal privacy can cause long-term damage to a company’s brand, but not offering relevant, innovative products and services can similarly damage the business as a whole. Thus, striking the right balance between privacy and customized user experience is the holy grail for today’s market leaders.
+
+To explore the balance between providing innovative products or services and jeopardizing personal privacy, we selected companies across three industries — Instagram for social media, Fitbit for hardware devices, and Stitch Fix for e-commerce — to see where the privacy boundary lies. We examine the relationships and exchange of money, products, and data among the users, the company, and applicable third parties to analyze how these businesses remain profitable in a time where consumers frequently expect more, for less (or for nothing at all). 
+
+---
+<p style="font-size:11px">See the complete project on <a href="https://medium.com/berkeleyischool/the-value-exchange-of-the-digital-age-9d44ddd2d0c0">Medium.</a></p>
