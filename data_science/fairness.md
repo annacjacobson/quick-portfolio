@@ -3,7 +3,7 @@
 [<img src="images/fairness_1.png?raw=true">](https://medium.com/berkeleyischool/fairness-in-the-age-of-algorithms-feb11c56a709)
 
 ## [Fairness in the Age of Algorithms](https://medium.com/berkeleyischool/fairness-in-the-age-of-algorithms-feb11c56a709)
-**UC Berkeley | Data Ethics**<br>
+**Independent Project**<br>
 
 ---
 
