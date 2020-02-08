@@ -1,4 +1,4 @@
-[<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science)
+[<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science/index)
 
 ## [The Value Proposition of Good Government](https://www.behance.net/gallery/76704737/WDVP-2019-The-Value-Proposition-of-Good-Government)
 **Information is Beautiful**<br>
