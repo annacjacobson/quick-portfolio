@@ -1,4 +1,4 @@
-[<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science)
+[<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science/index)
 
 ## [Women at MOMA: The First 60 Years](https://medium.com/berkeleyischool/women-at-moma-the-first-60-years-383d6b98f4f)
 **UC Berkeley | Python Fundamentals for Data Science**<br>
