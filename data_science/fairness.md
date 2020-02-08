@@ -1,4 +1,4 @@
-[<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science)
+[<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science/index)
 
 ## [Fairness in the Age of Algorithms](https://medium.com/berkeleyischool/fairness-in-the-age-of-algorithms-feb11c56a709)
 **UC Berkeley | Data Ethics**<br>
