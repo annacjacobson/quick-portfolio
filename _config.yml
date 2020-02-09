@@ -1,6 +1,4 @@
-exclude:
-  - "/vendor/"
-
+site_favicon: favicon.ico
 title: ANNA JACOBSON # your name (or website title) here
 logo: "/images/logo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
