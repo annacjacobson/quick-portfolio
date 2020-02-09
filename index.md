@@ -1,3 +1,5 @@
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
 ## P O R T F O L I O
 
 [<img src="images/Picture2.png?raw=true" width="150"/>](https://annacjacobson.github.io/data_science/index)|[**DATA SCIENCE**](https://annacjacobson.github.io/data_science/index)
