@@ -1,6 +1,6 @@
 [<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science/index)
 
-[<img src="images/projects_2.png?raw=true"/>](https://github.com/annacjacobson/207_FinalProject_Askeladden)
+<img src="images/projects_2.png?raw=true"/>
 
 # Project Portfolio
 **Professional Project**<br>
