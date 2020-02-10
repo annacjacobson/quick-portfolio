@@ -8,7 +8,7 @@
 ---
 
 #### Project Description
-A series of dashboards for internal stakeholders to improve visbility, gain insights, and benchmark new opportunities.
+A series of interactive dashboards for internal stakeholders to improve visbility, gain insights, and benchmark new opportunities.
 
 #### Skills 
 Data Cleansing, Data Anlysis, Data Visualization
