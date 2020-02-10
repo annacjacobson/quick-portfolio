@@ -3,7 +3,7 @@
 <img src="images/projects_2.PNG?raw=true"/>
 
 ## Project Portfolio
-**Professional Project**<br>
+**Morley Builders | Preconstruction**<br>
 
 ---
 
