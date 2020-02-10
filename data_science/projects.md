@@ -2,7 +2,7 @@
 
 <img src="images/projects_2.png?raw=true"/>
 
-# Project Portfolio
+## Project Portfolio
 **Professional Project**<br>
 
 ---
