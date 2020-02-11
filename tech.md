@@ -5,10 +5,10 @@
 Data science skills, including research design, exploratory data analysis, data engineering, statistical inference, predictive analytics, model building, data visualization, and communications about data with business stakeholders and clients
 
 ---
-Data science languages and applications, including Python (with NumPy, Pandas, Matplotlib, SciKit-Learn), Jupyter Notebook, R (with GGPlot2), R Markdown, LaTeX, SQL, and Google BigQuery
+Data science languages and applications, including Python (with NumPy, Pandas, SciKit-Learn), Jupyter Notebook, R, R Markdown, LaTeX, SQL, and Google BigQuery
 
 ---
-Data visualization applications, including D3.js, Tableau, Power BI, and Google Data Studio
+Data visualization applications, including D3.js, Tableau, Power BI, Google Data Studio, Matplotlib, and GGPlot2
 
 ---
 Leadership and team-building, including direction, development, and mentorship of project staff
