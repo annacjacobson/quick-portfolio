@@ -25,10 +25,10 @@ Using business intellidence to inform this decision-making process has the poten
 
 ---
 
-<img src="images/projects_1.PNG?raw=true"/>
+<img src="images/projects_1.png?raw=true"/>
 
-<img src="images/projects_3.PNG?raw=true"/> 
+<img src="images/projects_3.png?raw=true"/> 
 
-<img src="images/projects_4.PNG?raw=true"/> 
+<img src="images/projects_4.png?raw=true"/> 
 
 ---
