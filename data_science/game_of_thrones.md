@@ -9,10 +9,10 @@
 ---
 
 #### Project Description
-An end-to-end research project exploring the relationship between instructor and student gender on student learning outcomes.
+An end-to-end research project using causal inference to explore the relationship between instructor and student gender on student learning outcomes.
 
 #### Skills 
-Experiment Design, Data Cleansing, Data Analysis, Hypothesis Testing, Regression Analysis, Written Communication, Data Visualization
+Experiment Design, Data Cleansing, Data Analysis, Statistics (including Causal Inference, Hypothesis Testing, and Regression Analysis), Written Communication, Data Visualization
 
 #### Tools 
 Qualtrics, R (with GGPlot2 and Stargazer), R Markdown, Microsoft Excel
