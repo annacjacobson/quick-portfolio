@@ -15,7 +15,7 @@ A machine learning project to develop an algorithmic classification system to he
 Machine Learning, Natural Language Processing (NLP), Web Scraping, Data Cleansing, Written Communication, Data Visualization
 
 #### Tools 
-Python, SciKit-Learn, Pandas, NumPy, Matplotlib, and Jupyter Notebook
+Python (with SciKit-Learn, Pandas, NumPy, and Matplotlib) and Jupyter Notebook
 
 ---
 
