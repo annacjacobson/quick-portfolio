@@ -4,7 +4,7 @@
 
 ## Decoding Game of Thrones
 **UC Berkeley | Experiments and Causality**<br>
-*With Alex West and Aprik Zorian*
+*With Alex West and Apik Zorian*
 
 ---
 
