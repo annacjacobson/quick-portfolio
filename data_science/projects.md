@@ -2,13 +2,13 @@
 
 <img src="images/projects_2.PNG?raw=true"/>
 
-## Construction Project Portfolio
+## Construction Project Insights
 **Morley Builders | Preconstruction**<br>
 
 ---
 
 #### Project Description
-A series of interactive dashboards for internal stakeholders to improve visbility, gain insights, and benchmark new opportunities.
+A series of interactive business intelligence dashboards for internal stakeholders to improve visbility, gain insights, and benchmark new opportunities.
 
 #### Skills 
 Data Engineering, Data Anlysis, Data Visualization
