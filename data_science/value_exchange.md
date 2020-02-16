@@ -29,5 +29,9 @@ To explore the balance between providing innovative products or services and jeo
 
 [<img src="images/value_exchange_1.png?raw=true"/>](https://medium.com/berkeleyischool/the-value-exchange-of-the-digital-age-9d44ddd2d0c0)
 
+[<img src="images/value_exchange_3.png?raw=true"/>](https://medium.com/berkeleyischool/the-value-exchange-of-the-digital-age-9d44ddd2d0c0)
+
+[<img src="images/value_exchange_4.png?raw=true"/>](https://medium.com/berkeleyischool/the-value-exchange-of-the-digital-age-9d44ddd2d0c0)
+
 ---
 <p style="font-size:11px">See the complete project on <a href="https://medium.com/berkeleyischool/the-value-exchange-of-the-digital-age-9d44ddd2d0c0">Medium.</a></p>
