@@ -1,8 +1,8 @@
-[<img src="images/arrow_back.png?raw=true" width="30"/>](/construction/_index)
+[<img src="images/arrow_back.png?raw=true" width="30"/>](/construction/index)
 
 <img src="images/getty_2.png?raw=true"/>
 
-## [The Getty Villa](https://www.getty.edu/visit/villa/)
+## [Getty Villa](https://www.getty.edu/visit/villa/)
 
 ---
 
