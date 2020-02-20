@@ -11,5 +11,5 @@
 <img src="images/Picture17.png?raw=true" width="150"/>| **MADAME TUSSAUDS HOLLYWOOD**
 <img src="images/Picture18.png?raw=true" width="150"/>| **LOS ANGELES COUNTY MUSEUM OF ART CANTOR SCULPTURE GARDEN**
 <img src="images/Picture19.png?raw=true" width="150"/>| **USC ARTS & HUMANTITIES RESIDENTIAL COLLEGE**
-<img src="images/Picture20.png?raw=true" width="150"/>| **SANTA MONICA PUBLIC LIBRARY**
+[<img src="images/Picture20.png?raw=true" width="150"/>](/construction/smpl)[| **SANTA MONICA PUBLIC LIBRARY**](/construction/smpl)
 [<img src="images/Picture21.png?raw=true" width="150"/>](/construction/thegettyvilla)| [**GETTY VILLA**](/construction/thegettyvilla)
