@@ -1,4 +1,4 @@
-[<img src="images/arrow_back.png?raw=true" width="30"/>](/index)
+[<img src="images/arrow_back.png?raw=true" width="30"/>](/_index)
 
 ## Construction
 
