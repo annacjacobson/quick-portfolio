@@ -3,7 +3,7 @@
 <img src="images/GoT_1.png?raw=true"/>
 
 ## Decoding Game of Thrones
-**UC Berkeley | Experiments and Causality**<br>
+[**UC Berkeley | Experiments and Causality**](https://www.ischool.berkeley.edu/courses/datasci/241)<br>
 *With Alex West and [Apik Zorian](https://www.linkedin.com/in/apikzorian)*
 
 ---
