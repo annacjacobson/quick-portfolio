@@ -3,6 +3,7 @@
 ## Data Science
 
 [<img src="images/Picture23.png?raw=true" width="150"/>](/data_science/askeladden)| [**The Askeladden Algorithm**](/data_science/askeladden)
+[<img src="images/email.png?raw=true" width="150"/>](/data_science/email)| [**The Web of Team Communication**](/data_science/email)
 [<img src="images/Picture36.png?raw=true" width="150"/>](/data_science/refugees)| [**Populations of Concern: Refugees in the United States**](/data_science/refugees)
 [<img src="images/Picture26.png?raw=true" width="150"/>](/data_science/visualize2030)| [**The Building Blocks of Gender Equality: Health, Education, and Employment**](/data_science/visualize2030)
 [<img src="images/GoT.png?raw=true" width="150"/>](/data_science/game_of_thrones)| [**Decoding Game of Thrones**](/data_science/game_of_thrones)
