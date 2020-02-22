@@ -3,7 +3,7 @@
 [<img src="images/moma_2.png?raw=true"/>](https://medium.com/berkeleyischool/women-at-moma-the-first-60-years-383d6b98f4f)
 
 ## [Women at MOMA: The First 60 Years](https://medium.com/berkeleyischool/women-at-moma-the-first-60-years-383d6b98f4f)
-**UC Berkeley | Python Fundamentals for Data Science**<br>
+[**UC Berkeley | Python Fundamentals for Data Science**](https://www.ischool.berkeley.edu/courses/datasci/200)<br>
 
 ---
 
