@@ -25,7 +25,7 @@ Under a new refugee admissions ceiling announced by the United States State Depa
 Even before the administration’s announcement, refugee resettlement in the U.S. had dropped to historic lows during Trump’s presidency, according to a Pew Research Center analysis of State Department data. Overall, the US admitted about 76,200 refugees under the Trump administration from Janunary 2017 through September 2019. By comparison, the US admitted nearly 85,000 refugees in fiscal 2016 alone,
 the last full fiscal year of the Obama administration. This decline in US refugee admissions comes at a time when the number of refugees worldwide has reached the highest levels since World War II. Most are hosted by other developing nations, those which can least afford to take care of them.
 
-With the words “Give me your tired, your poor, your huddled masses yearning to breathe free” are emblazoned on our country’s front door, understanding the history and origins of refugees in the US is critical to all Americans’ understanding of themselves. Our generosity toward our populations of concern is essential to our patriotism. We withhold that generosity at our peril. 
+With the words “Give me your tired, your poor, your huddled masses yearning to breathe free” emblazoned on our country’s front door, understanding the history and origins of refugees in the US is critical to all Americans’ understanding of ourselves. Our generosity toward our populations of concern is essential to our patriotism. We withhold that generosity at our peril. 
 
 ---
 
