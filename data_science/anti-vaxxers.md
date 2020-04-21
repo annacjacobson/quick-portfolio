@@ -1,6 +1,6 @@
 [<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science/index)
 
-[<img src="images/askeladden_1.png?raw=true"/>](https://github.com/annacjacobson/207_FinalProject_Askeladden)
+[<img src="images/anti-vaxxers_1.png?raw=true"/>](https://github.com/annacjacobson/207_FinalProject_Askeladden)
 
 ## Who Are California's Anti-Vaxxers?
 [**UC Berkeley | Data Visualization and Communication**](https://www.ischool.berkeley.edu/courses/datasci/209)<br>
@@ -31,11 +31,11 @@ In this project, we visualize anti-vaccination in California in the period from 
 
 ---
 
-<img src="images/askeladden_11.png?raw=true"/>
+<img src="images/anti-vaxxers_4.png?raw=true"/>
 
-<img src="images/askeladden_15.png?raw=true"/> 
+<img src="images/anti-vaxxers_2.png?raw=true"/> 
 
-<img src="images/askeladden_24.png?raw=true"/>
+<img src="images/anti-vaxxers_3.png?raw=true"/>
 
 ---
 <p style="font-size:11px">See the <a href="http://people.ischool.berkeley.edu/~ajacobson/final_project/">visual essay</a> and the <a href="http://people.ischool.berkeley.edu/~ajacobson/final_project_db/">data dashboard.</a></p>
