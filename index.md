@@ -5,7 +5,7 @@
 [<img src="images/Picture2.png?raw=true" width="150"/>](https://annacjacobson.github.io/data_science/index)|[**DATA SCIENCE**](https://annacjacobson.github.io/data_science/index)
 [<img src="images/Picture3.png?raw=true" width="150"/>](https://annacjacobson.github.io/construction/index)|[**CONSTRUCTION**](https://annacjacobson.github.io/construction/index)
 [<img src="images/Picture4.png?raw=true" width="150"/>](https://annacjacobson.github.io/design)|[**GRAPHIC DESIGN**](https://annacjacobson.github.io/design)
-[<img src="images/Picture11.png?raw=true" width="150"/>](https://annacjacobson.github.io/writing)|[**WRITING**](https://annacjacobson.github.io/writing)
+[<img src="images/Picture11.png?raw=true" width="150"/>](https://annacjacobson.github.io/writing/index)|[**WRITING**](https://annacjacobson.github.io/writing)
 
 <br><br/>
 
