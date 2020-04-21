@@ -31,11 +31,11 @@ In this project, we visualize anti-vaccination in California in the period from 
 
 ---
 
-<img src="images/anti-vaxxers_4.png?raw=true"/>
+<img src="images/anti-vaxxers_4.PNG?raw=true"/>
 
-<img src="images/anti-vaxxers_2.png?raw=true"/> 
+<img src="images/anti-vaxxers_2.PNG?raw=true"/> 
 
-<img src="images/anti-vaxxers_3.png?raw=true"/>
+<img src="images/anti-vaxxers_3.PNG?raw=true"/>
 
 ---
 <p style="font-size:11px">See the <a href="http://people.ischool.berkeley.edu/~ajacobson/final_project/">visual essay</a> and the <a href="http://people.ischool.berkeley.edu/~ajacobson/final_project_db/">data dashboard.</a></p>
