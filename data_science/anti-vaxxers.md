@@ -12,7 +12,7 @@
 A data visualization project exploring anti-vaccination behaviors in California from 2000 to 2015.
 
 #### Skills 
-Data Visualization, Data Cleansing, Written Communication, Web Design
+Data Visualization, Written Communication, Web Design, Data Cleansing
 
 #### Tools 
 Tableau, HTML/CSS, JavaScript, CodePen
