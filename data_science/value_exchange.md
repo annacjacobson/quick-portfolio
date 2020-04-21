@@ -4,7 +4,7 @@
 
 ## [The Value Exchange of the Digital Age](https://medium.com/berkeleyischool/the-value-exchange-of-the-digital-age-9d44ddd2d0c0)
 [**UC Berkeley | Behind the Data - Humans and Values**](https://www.ischool.berkeley.edu/courses/datasci/231)<br>
-*With [Hanna Rocks](https://www.linkedin.com/in/hanna-rocks-62b56040/) and [Jay Venkata](https://www.linkedin.com/in/jay-venkata)*
+*Anna Jacobson, [Hanna Rocks](https://www.linkedin.com/in/hanna-rocks-62b56040/) and [Jay Venkata](https://www.linkedin.com/in/jay-venkata)*
 
 ---
 
