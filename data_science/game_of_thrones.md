@@ -4,7 +4,7 @@
 
 ## Decoding Game of Thrones
 [**UC Berkeley | Experiments and Causality**](https://www.ischool.berkeley.edu/courses/datasci/241)<br>
-*With Alex West and [Apik Zorian](https://www.linkedin.com/in/apikzorian)*
+*Anna Jacobson, Alex West, and [Apik Zorian](https://www.linkedin.com/in/apikzorian)*
 
 ---
 
