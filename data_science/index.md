@@ -9,7 +9,6 @@
 [<img src="images/GoT.png?raw=true" width="150"/>](/data_science/game_of_thrones)| [**Decoding Game of Thrones**](/data_science/game_of_thrones)
 [<img src="images/Picture38.png?raw=true" width="150"/>](/data_science/shootings)| [**Mass Shootings in America (1980-2019)**](/data_science/shootings)
 [<img src="images/projects.PNG?raw=true" width="150"/>](/data_science/projects)| [**Construction Project Insights**](/data_science/projects)
-[<img src="images/Picture24.png?raw=true" width="150"/>](/data_science/fairness)| [**Fairness in the Age of Algorithms**](/data_science/fairness)
 [<img src="images/Picture25.png?raw=true" width="150"/>](/data_science/government)| [**The Value Proposition of Good Government**](/data_science/government)
 [<img src="images/Picture27.png?raw=true" width="150"/>](/data_science/moma)| [**Women at MOMA: The First 60 Years**](/data_science/moma)
 [<img src="images/Picture22.png?raw=true" width="150"/>](/data_science/value_exchange) |[**The Value Exchange of the Digital Age**](/data_science/value_exchange) 
