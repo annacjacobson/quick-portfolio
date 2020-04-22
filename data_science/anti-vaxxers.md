@@ -1,6 +1,6 @@
 [<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science/index)
 
-[<img src="images/anti-vaxxers_5.PNG?raw=true"/>](https://github.com/annacjacobson/207_FinalProject_Askeladden)
+[<img src="images/anti-vaxxers_5.png?raw=true"/>](https://github.com/annacjacobson/207_FinalProject_Askeladden)
 
 ## Who Are California's Anti-Vaxxers?
 [**UC Berkeley | Data Visualization and Communication**](https://www.ischool.berkeley.edu/courses/datasci/209)<br>
