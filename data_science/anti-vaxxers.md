@@ -4,7 +4,7 @@
 
 ## Who Are California's Anti-Vaxxers?
 [**UC Berkeley | Data Visualization and Communication**](https://www.ischool.berkeley.edu/courses/datasci/209)<br>
-*Anna Jacobson and Allison Godfrey*
+*Anna Jacobson and [Allison Godfrey](https://allison-godfrey.github.io/)*
 
 ---
 
