@@ -9,7 +9,7 @@
 ---
 
 #### Project Description
-A data visualization project exploring anti-vaccination behaviors in California from 2000 to 2015. Includes a <a href="http://people.ischool.berkeley.edu/~ajacobson/final_project/">visual essay</a> and a <a href="http://people.ischool.berkeley.edu/~ajacobson/final_project_db/">data dashboard.</a></p>
+A data visualization project exploring anti-vaccination behaviors in California from 2000 to 2015. Includes a <a href="http://people.ischool.berkeley.edu/~ajacobson/final_project/">visual essay</a> and a <a href="http://people.ischool.berkeley.edu/~ajacobson/final_project_db/">data dashboard.</a>
 
 #### Skills 
 Data Visualization, Written Communication, Web Design, Data Cleansing
