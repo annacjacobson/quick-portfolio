@@ -2,7 +2,7 @@
 
 [<img src="images/anti-vaxxers_5.png?raw=true"/>](http://people.ischool.berkeley.edu/~ajacobson/final_project/)
 
-[## Who Are California's Anti-Vaxxers?](http://people.ischool.berkeley.edu/~ajacobson/final_project/)
+## Who Are California's Anti-Vaxxers?
 [**UC Berkeley | Data Visualization and Communication**](https://www.ischool.berkeley.edu/courses/datasci/209)<br>
 *Anna Jacobson and Allison Godfrey*
 
