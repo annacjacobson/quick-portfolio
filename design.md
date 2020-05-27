@@ -7,6 +7,7 @@
 [<img src="/data_science/images/Picture36.png?raw=true" width="150"/>](/data_science/refugees)| [**Populations of Concern: Refugees in the United States**](/data_science/refugees)
 [<img src="/data_science/images/Picture38.png?raw=true" width="150"/>](/data_science/shootings)| [**Mass Shootings in America (1980-2019)**](/data_science/shootings)
 [<img src="/data_science/images/Picture26.png?raw=true" width="150"/>](/data_science/visualize2030)| [**The Building Blocks of Gender Equality: Health, Education, and Employment**](/data_science/visualize2030)
+[<img src="images/yimby.png?raw=true" width="150"/>](https://www.behance.net/gallery/97840595/YIMBY)| [**YIMBY (Pitch Deck)**](https://www.behance.net/gallery/97840595/YIMBYs)
 [<img src="images/Picture45.png?raw=true" width="150"/>](https://www.behance.net/gallery/76667187/12-Useful-Things-to-Know-About-Machine-Learning)| [**12 Useful Things to Know About Machine Learning**](https://www.behance.net/gallery/76667187/12-Useful-Things-to-Know-About-Machine-Learning)
 [<img src="images/Picture46.png?raw=true" width="150"/>](https://www.behance.net/gallery/76668275/Bayess-Rule-A-Primer)| [**Bayes's Rule: A Primer**](https://www.behance.net/gallery/76668275/Bayess-Rule-A-Primer)
 [<img src="images/Picture47.png?raw=true" width="150"/>](https://www.behance.net/gallery/94859283/Paradigm-Shift)| [**Paradigm Shift**](https://www.behance.net/gallery/94859283/Paradigm-Shift)
