@@ -32,6 +32,9 @@ Adobe Creative Suite tools, including Lightroom, Photoshop, InDesign, and Illust
 Preparation and delivery of project proposals and other marketing materials
 
 ---
+CITI Certified Researcher (Human Research - Social and Behavioral Research Investigators)
+
+---
 Construction technology, including Revit, Assemble, Synchro Software Suite, Primavera Project Planner 6, Bluebeam Revu, Prolog Manager/Converge, Crystal Reports, Vista, and Microsoft Office 365 Suite
 
 ---
