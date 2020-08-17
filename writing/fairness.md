@@ -29,4 +29,4 @@ Of all of the exciting work taking place in the field of data science, the machi
 ---
 <p style="font-size:11px">See the complete project on <a href="https://medium.com/berkeleyischool/fairness-in-the-age-of-algorithms-feb11c56a709">Medium.</a></p>
 
-<p style="font-size:11px">Abridged version published in <a href="https://smile.amazon.com/Things-Ethics-Everyone-Science-Should/dp/1492072664">97 Things About Ethics Everyone in Data Science Should Know: Collective Wisdom from the Experts</a>by O'Reilly Media</p>
+<p style="font-size:11px">Abridged version published in <a href="https://smile.amazon.com/Things-Ethics-Everyone-Science-Should/dp/1492072664">97 Things About Ethics Everyone in Data Science Should Know: Collective Wisdom from the Experts</a> by O'Reilly Media</p>
