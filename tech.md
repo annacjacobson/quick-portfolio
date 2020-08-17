@@ -11,6 +11,9 @@ Data science languages and applications, including Python (with NumPy, Pandas, S
 Data visualization applications, including D3.js, Tableau, Power BI, Google Data Studio, Matplotlib, and GGPlot2
 
 ---
+Web development tools, including HTML, CSS, and Flask
+
+---
 Leadership and team-building, including direction, development, and mentorship of project staff
 
 ---
