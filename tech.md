@@ -38,7 +38,7 @@ Preparation and delivery of project proposals and other marketing materials
 CITI Certified Researcher (Human Research - Social and Behavioral Research Investigators)
 
 ---
-Construction technology, including Revit, Assemble, Synchro Software Suite, Primavera Project Planner 6, Bluebeam Revu, Prolog Manager/Converge, Crystal Reports, Vista, and Microsoft Office 365 Suite
+Construction technology, including Revit, Assemble, Synchro Software Suite, Primavera Project Planner 6, Bluebeam Revu, Prolog Manager/Converge, Crystal Reports, Vista, Microsoft Visio, and Microsoft Office 365 Suite
 
 ---
 LEED© Accredited Professional - Building Design + Construction (BD+C)
