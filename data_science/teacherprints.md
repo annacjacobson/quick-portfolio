@@ -12,10 +12,10 @@
 An end-to-end data science product designed to empower teachers around the world to envision teaching excellence through accessible, affordable instructional coaching, available anytime and anywhere.
 
 #### Skills 
-Machine Learning, Data Analysis, Data Visualization, Web Design, Written Communication, Professional Presentation 
+Machine Learning (Automatic Speech Recognition), Data Analysis, Data Visualization, Web Design, Written Communication, Professional Presentation, Research, User Testing 
 
 #### Tools 
-Python (Pyannote-Audio/Pytorch), Jupyter Notebook, Github
+Python (Pyannote-Audio/Pytorch), D3.js, HTML/CSS (Bootstrap), Flask, Jupyter Notebook, Github, Photoshop, Google Slides
 
 ---
 
