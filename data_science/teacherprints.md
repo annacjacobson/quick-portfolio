@@ -1,21 +1,21 @@
 [<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science/index)
 
-[<img src="images/askeladden_1.png?raw=true"/>](https://github.com/annacjacobson/207_FinalProject_Askeladden)
+[<img src="images/askeladden_1.png?raw=true"/>](https://teacherprints.org/)
 
-## The Askeladden Algorithm
-[**UC Berkeley | Applied Machine Learning**](https://www.ischool.berkeley.edu/courses/datasci/207)<br>
-*Anna Jacobson, Laura Pintos, and Ramiro Cadavid*
+## TeacherPrints
+[**UC Berkeley | Capstone**](https://www.ischool.berkeley.edu/projects/2020/teacherprints-envision-teaching-excellence)<br>
+*Anna Jacobson, Tim Slade, Lee Moore, and Kim Darnell*
 
 ---
 
 #### Project Description
-A machine learning project to develop an algorithmic classification system to help Twitter to identify Internet Research Agency “fake news” Russian troll tweets.
+An end-to-end data science product designed to empowering teachers around the world to envision teaching excellence through accessible, affordable instructional coaching, available anytime and anywhere.
 
 #### Skills 
-Machine Learning, Natural Language Processing (NLP), Web Scraping, Data Cleansing, Written Communication, Data Visualization
+Machine Learning, Data Analysis, Data Visualization, Written Communication, 
 
 #### Tools 
-Python (with SciKit-Learn, Pandas, NumPy, and Matplotlib) and Jupyter Notebook
+Python (Pyannote-Audio), Jupyter Notebook, Github
 
 ---
 
