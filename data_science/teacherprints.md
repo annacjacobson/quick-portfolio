@@ -1,10 +1,10 @@
 [<img src="images/arrow_back.png?raw=true" width="30"/>](/data_science/index)
 
-[<img src="images/askeladden_1.png?raw=true"/>](https://teacherprints.org/)
+[<img src="images/ribbon.png?raw=true"/>](https://teacherprints.org/)
 
 ## TeacherPrints
 [**UC Berkeley | Capstone**](https://www.ischool.berkeley.edu/projects/2020/teacherprints-envision-teaching-excellence)<br>
-*Anna Jacobson, Tim Slade, Lee Moore, and Kim Darnell*
+*Anna Jacobson, [Tim Slade](https://www.linkedin.com/in/tsslade/), [Lee Moore](https://www.linkedin.com/in/lee-a-moore/), and [Kim Darnell](https://www.linkedin.com/in/kim-darnell/)*
 
 ---
 
@@ -25,11 +25,11 @@ TeacherPrints is a free instructional coaching app that utilizes personalized, d
 
 ---
 
-<img src="images/askeladden_11.png?raw=true"/>
+<img src="images/demo-3.png?raw=true"/>
 
-<img src="images/askeladden_15.png?raw=true"/> 
+<img src="images/demo-3b.png?raw=true"/> 
 
-<img src="images/askeladden_24.png?raw=true"/>
+<img src="images/demo-3c.png?raw=true"/>
 
 ---
 <p style="font-size:11px">See the project website at <a href="https://teacherprints.org/">teacherprints.org.</a></p>
