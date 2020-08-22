@@ -11,8 +11,8 @@
 
 ## O T H E R <br> I N F O R M A T I O N
 
+[<img src="images/Picture5.png?raw=true" width="150"/>](https://annacjacobson.github.io/tech)|[**SKILLS & STRENGTHS**](https://annacjacobson.github.io/tech)
 [<img src="images/Picture8.png?raw=true" width="150"/>](https://annacjacobson.github.io/honors_awards)|[**HONORS & AWARDS**](https://annacjacobson.github.io/honors_awards)
-[<img src="images/Picture5.png?raw=true" width="150"/>](https://annacjacobson.github.io/tech)|[**TECHNICAL COMPETENCIES**](https://annacjacobson.github.io/tech)
 [<img src="images/Picture1.png?raw=true" width="150"/>](https://annacjacobson.github.io/education)|[**EDUCATION**](https://annacjacobson.github.io/education)
 
 
