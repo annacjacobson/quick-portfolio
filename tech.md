@@ -8,7 +8,7 @@ Leadership and team-building, including direction, development, and mentorship o
 Project management, including scheduling, budgeting, organization of human and technical resources, and communication
 
 ---
-Problem framing, idea evaluation, collaborative decision-making, and solution implementation
+Problem framing, idea brainstorming and evaluation, collaborative decision-making, and solution implementation
 
 ---
 Written and spoken communications, presentations and interviews, and public speaking
