@@ -2,6 +2,7 @@
 
 ## Data Science
 
+[<img src="images/logo-alt.png?raw=true" width="150"/>](/data_science/teacherprints)| [**TeacherPrints**](/data_science/teacherprints)
 [<img src="images/Picture23.png?raw=true" width="150"/>](/data_science/askeladden)| [**The Askeladden Algorithm**](/data_science/askeladden)
 [<img src="images/anti-vaxxers.jpg?raw=true" width="150"/>](/data_science/anti-vaxxers)| [**Who Are California's Anti-Vaxxers?**](/data_science/anti-vaxxers)
 [<img src="images/email.png?raw=true" width="150"/>](/data_science/email)| [**The Web of Team Communication**](/data_science/email)
