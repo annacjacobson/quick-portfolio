@@ -45,6 +45,12 @@ Adobe Creative Suite tools, including Lightroom, Photoshop, InDesign, and Illust
 Construction technology, including Revit, Assemble, Synchro, Primavera Project Planner 6, Bluebeam Revu, Prolog Manager/Converge, Crystal Reports, and Vista
 
 ---
+Experiment design, implementation, and analysis
+
+---
+User testing
+
+---
 
 
 ## Certifications
