@@ -44,3 +44,19 @@ Construction technology, including Revit, Assemble, Synchro Software Suite, Prim
 LEED© Accredited Professional - Building Design + Construction (BD+C)
 
 ---
+
+## People Skills
+
+Leadership and team-building, including direction, development, and mentorship of project staff
+
+---
+Decision-making and resourceful problem-solving
+
+---
+Written and spoken communications, presentations and interviews, and public speaking
+
+---
+Social and in-person networking, including with professional organizations focused on construction technology, sustainability, and diversity and inclusion
+
+---
+
