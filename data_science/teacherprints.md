@@ -15,7 +15,7 @@ An end-to-end data science product designed to empower teachers around the world
 Machine Learning (Automatic Speech Recognition), Data Analysis, Data Visualization, Web Design, Written Communication, Professional Presentation, Research, User Testing 
 
 #### Tools 
-Python (Pyannote-Audio/Pytorch), D3.js, HTML/CSS (Bootstrap), Flask, Jupyter Notebook, Github, Photoshop, Google Slides
+Python (Pyannote-Audio/Pytorch), D3.js, HTML/CSS (Bootstrap), Flask, AWS (EC2, S3, and RDS), Jupyter Notebook, Github, Photoshop, Google Slides
 
 ---
 
@@ -25,11 +25,11 @@ TeacherPrints is a free instructional coaching app that utilizes personalized, d
 
 ---
 
-<img src="images/demo-3.png?raw=true"/>
+[<img src="images/demo-3.png?raw=true"/>](https://teacherprints.org/demo_landing)
 
-<img src="images/demo-3b.png?raw=true"/> 
+[<img src="images/demo-3b.png?raw=true"/>](https://teacherprints.org/demo_teacherprint)
 
-<img src="images/demo-3c.png?raw=true"/>
+[<img src="images/demo-3c.png?raw=true"/>](https://teacherprints.org/demo_speakerwheel)
 
 ---
 <p style="font-size:11px">See the project website at <a href="https://teacherprints.org/">teacherprints.org.</a></p>
