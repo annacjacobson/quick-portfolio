@@ -2,7 +2,7 @@
 
 [<img src="images/email_1.png?raw=true"/>](http://people.ischool.berkeley.edu/~ajacobson/assignment_1/)
 
-## [The Web of Team Communication](http://people.ischool.berkeley.edu/~ajacobson/assignment_1/)
+## [The Web of Team Communication](https://people.ischool.berkeley.edu/~ajacobson/assignment_1/)
 [**UC Berkeley | Data Visualization and Communication**](https://www.ischool.berkeley.edu/courses/datasci/209)<br>
 
 ---
@@ -24,7 +24,7 @@ Teamwork in business requires many acts of communication every day, spoken and w
 
 ---
 
-[<img src="images/email_2.png?raw=true"/>](http://people.ischool.berkeley.edu/~ajacobson/)
+[<img src="images/email_2.png?raw=true"/>](https://people.ischool.berkeley.edu/~ajacobson/assignment_1/)
 
 ---
 <p style="font-size:11px">See the complete project at <a href="http://people.ischool.berkeley.edu/~ajacobson/assignment_1/">The UC Berkeley School of Information.</a></p>
