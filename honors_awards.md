@@ -7,7 +7,7 @@
 2020| [Project Selected, Built by Women Los Angeles 2020 Exhibition](https://www.builtbywomen.us/selected-projects/)
 2019| [Presenter, Women in Construction USA conference in San Francisco](https://medium.com/berkeleyischool/crafting-a-sustainable-career-8ba3d8cdbcd6)
 2019| [Presenter, Women in Data Science (WiDS) annual conference at UC Berkeley](https://www.ischool.berkeley.edu/events/2019/wids-berkeley)
-2019| [Winner, Good Cloud's Visualize 2030 data storytelling competition for "The Building Blocks of Gender Equality"](https://cloud.google.com/visualize-2030/#meet-the-winners)
+2019| [Winner, Google Cloud's Visualize 2030 data storytelling competition for "The Building Blocks of Gender Equality"](https://www.behance.net/gallery/83709467/Visualize-2030-The-Building-Blocks-of-Gender-Equality/modules/484916565)
 2019| [Profiled, UC Berkeley I School's Women in Data Science series](https://medium.com/berkeleyischool/5-questions-with-a-woman-in-data-science-anna-jacobson-1c5b37dd4b44)
 2019|	[Runner-Up, Information is Beautiful’s World Data Visualization Prize (Static) for “The Value Proposition of Good Government”](https://informationisbeautiful.net/2019/winners-of-the-world-data-visualization-prize/)
 2018|	Winner, Morley Builders’ President’s Award of Excellence
