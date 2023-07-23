@@ -2,11 +2,14 @@
 
 ## Honors & Awards
 
+2023| [Presenter, VC Platform Global Summit] (https://summit.vcplatform.com/)
+2021| [Catalyst Prize Winner, Tools Competition for TeacherPrints](https://tools-competition.org/winners-2020-competition/)
+2020| [Published, "The Askeladden Algorithm" on Towards Data Science](https://towardsdatascience.com/the-askeladden-algorithm-10859c349fc9)
 2020| [Honorable Mention, UC Berkeley MIDS Summer 2020 Capstone Project Showcase](https://www.ischool.berkeley.edu/projects/2020/teacherprints-envision-teaching-excellence)
 2020| [Published, "97 Things About Ethics Everyone in Data Science Should Know" by O'Reilly Media](https://learning.oreilly.com/library/view/97-things-about/9781492072652/)
 2020| [Project Selected, Built by Women Los Angeles 2020 Exhibition](https://www.builtbywomen.us/selected-projects/)
-2019| [Presenter, Women in Construction USA conference in San Francisco](https://medium.com/berkeleyischool/crafting-a-sustainable-career-8ba3d8cdbcd6)
-2019| [Presenter, Women in Data Science (WiDS) annual conference at UC Berkeley](https://www.ischool.berkeley.edu/events/2019/wids-berkeley)
+2019| [Presenter, Women in Construction USA](https://medium.com/berkeleyischool/crafting-a-sustainable-career-8ba3d8cdbcd6)
+2019| [Presenter, Women in Data Science (WiDS) at UC Berkeley](https://www.ischool.berkeley.edu/events/2019/wids-berkeley)
 2019| [Winner, Google Cloud's Visualize 2030 data storytelling competition for "The Building Blocks of Gender Equality"](https://www.behance.net/gallery/83709467/Visualize-2030-The-Building-Blocks-of-Gender-Equality/modules/484916565)
 2019| [Profiled, UC Berkeley I School's Women in Data Science series](https://medium.com/berkeleyischool/5-questions-with-a-woman-in-data-science-anna-jacobson-1c5b37dd4b44)
 2019|	[Runner-Up, Information is Beautiful’s World Data Visualization Prize (Static) for “The Value Proposition of Good Government”](https://informationisbeautiful.net/2019/winners-of-the-world-data-visualization-prize/)
@@ -16,5 +19,3 @@
 2016|	[Selected, ENR California’s Top 20 Under 40](https://www.enr.com/blogs/12-california-views/post/38526-enr-california-announces-2016-top-20-under-40-honorees)
 2014|	[Published, Biographical essay “My Lean In Story” on LeanIn.org](https://leanin.org/stories/anna-jacobson) 
 2013|	Named Project Manager of the Year by the American Subcontractors Association, Los Angeles Chapter
-
-
