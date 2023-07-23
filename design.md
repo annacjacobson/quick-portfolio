@@ -2,7 +2,8 @@
 
 ## Graphic Design
 
-[<img src="images/Picture44.png?raw=true" width="150"/>](https://www.behance.net/gallery/77561681/Global-Development-Aid)| [**Global Development Aid**](https://www.behance.net/gallery/77561681/Global-Development-Aid)
+[<img src="images/gen-ai_1.png?raw=true" width="100"/>](https://www.canva.com/design/DAFUZfIqA8Q/SPJgi9ejRsoW1c-ZTnQRJA/view?utm_content=DAFUZfIqA8Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)| [**Generative AI for 3rd Graders**]([https://www.behance.net/gallery/77561681/Global-Development-Aid](https://www.canva.com/design/DAFUZfIqA8Q/SPJgi9ejRsoW1c-ZTnQRJA/view?utm_content=DAFUZfIqA8Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+[<img src="images/Picture44.png?raw=true" width="100"/>](https://www.behance.net/gallery/77561681/Global-Development-Aid)| [**Global Development Aid**](https://www.behance.net/gallery/77561681/Global-Development-Aid)
 [<img src="images/Picture39.png?raw=true" width="150"/>](https://www.behance.net/gallery/90299045/Tuftian-Principles)| [**Tuftian Principles**](https://www.behance.net/gallery/90299045/Tuftian-Principles)
 [<img src="/data_science/images/Picture36.png?raw=true" width="150"/>](/data_science/refugees)| [**Populations of Concern: Refugees in the United States**](/data_science/refugees)
 [<img src="/data_science/images/Picture38.png?raw=true" width="150"/>](/data_science/shootings)| [**Mass Shootings in America (1980-2019)**](/data_science/shootings)
