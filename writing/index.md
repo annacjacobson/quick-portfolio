@@ -2,7 +2,7 @@
 
 ## Writing
 
-[<img src="images/express-entry_1.png?raw=true" width="150"/>](https://medium.com/@annacjacobson/express-entry-e7b0d559d07a)| [**Express Entry: Using Data Analysis to Understand Canadian Immigration**](https://medium.com/@annacjacobson/express-entry-e7b0d559d07a)
+[<img src="images/express-entry_1.png?raw=true" width="100"/>](https://medium.com/@annacjacobson/express-entry-e7b0d559d07a)| [**Express Entry: Using Data Analysis to Understand Canadian Immigration**](https://medium.com/@annacjacobson/express-entry-e7b0d559d07a)
 [<img src="images/magical_1.png?raw=true" width="150"/>](https://medium.com/berkeleyischool/from-manila-folders-to-magical-data-2a042c67b30c)| [**From Manila Folders to Magical Data**](https://medium.com/berkeleyischool/from-manila-folders-to-magical-data-2a042c67b30c)
 [<img src="images/askeladden_1.png?raw=true" width="150"/>](https://towardsdatascience.com/the-askeladden-algorithm-10859c349fc9)| [**The Askeladden Algorithm**](https://towardsdatascience.com/the-askeladden-algorithm-10859c349fc9****)
 [<img src="images/Picture48.png?raw=true" width="150"/>](https://medium.com/berkeleyischool/crafting-a-sustainable-career-8ba3d8cdbcd6)| [**Crafting a Sustainable Career**](https://medium.com/berkeleyischool/crafting-a-sustainable-career-8ba3d8cdbcd6)
