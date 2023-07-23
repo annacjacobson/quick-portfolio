@@ -4,6 +4,7 @@
 
 ## The Askeladden Algorithm
 [**UC Berkeley | Applied Machine Learning**](https://www.ischool.berkeley.edu/courses/datasci/207)<br>
+[**Published in Towards Data Science**]([https://www.ischool.berkeley.edu/courses/datasci/207](https://towardsdatascience.com/the-askeladden-algorithm-10859c349fc9))<br>
 *Anna Jacobson, Laura Pintos, and Ramiro Cadavid*
 
 ---
