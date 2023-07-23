@@ -2,6 +2,7 @@
 
 ## Writing
 
+[<img src="images/magical_1.png?raw=true" width="150"/>](https://medium.com/berkeleyischool/from-manila-folders-to-magical-data-2a042c67b30c)| [**From Manila Folders to Magical Data**](https://medium.com/berkeleyischool/from-manila-folders-to-magical-data-2a042c67b30c)
 [<img src="images/Picture48.png?raw=true" width="150"/>](https://medium.com/berkeleyischool/crafting-a-sustainable-career-8ba3d8cdbcd6)| [**Crafting a Sustainable Career**](https://medium.com/berkeleyischool/crafting-a-sustainable-career-8ba3d8cdbcd6)
 [<img src="images/Picture24.png?raw=true" width="150"/>](/writing/fairness)| [**Fairness in the Age of Algorithms**](/writing/fairness)
 [<img src="images/Picture49.png?raw=true" width="150"/>](https://medium.com/berkeleyischool/5-useful-things-i-learned-about-data-storytelling-9e4c46cfffdd)| [**5 Useful Things I Learned About Data Storytelling**](https://medium.com/berkeleyischool/5-useful-things-i-learned-about-data-storytelling-9e4c46cfffdd)
