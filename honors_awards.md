@@ -4,7 +4,7 @@
 
 2023| [Presenter, VC Platform Global Summit](https://summit.vcplatform.com/)
 2021| [Catalyst Prize Winner, Tools Competition for TeacherPrints](https://tools-competition.org/winners-2020-competition/)
-2021| [Presenter, ENR Top Young Professional Virtual Conference](https://www.linkedin.com/posts/anna-ching-jacobson_datasciencecareers-aecindustry-futureisnow-activity-6770855935062757376-eLkz?utm_source=share&utm_medium=member_desktop)
+2021| [Presenter, ENR Top Young Professionals Virtual Conference](https://www.linkedin.com/posts/anna-ching-jacobson_datasciencecareers-aecindustry-futureisnow-activity-6770855935062757376-eLkz?utm_source=share&utm_medium=member_desktop)
 2020| [Published, "The Askeladden Algorithm" on Towards Data Science](https://towardsdatascience.com/the-askeladden-algorithm-10859c349fc9)
 2020| [Honorable Mention, UC Berkeley MIDS Summer 2020 Capstone Project Showcase](https://www.ischool.berkeley.edu/projects/2020/teacherprints-envision-teaching-excellence)
 2020| [Published, "97 Things About Ethics Everyone in Data Science Should Know" by O'Reilly Media](https://learning.oreilly.com/library/view/97-things-about/9781492072652/)
