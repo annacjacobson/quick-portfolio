@@ -31,6 +31,3 @@ TeacherPrints is a free instructional coaching app that utilizes personalized, d
 [<img src="images/demo-3b.png?raw=true"/>](https://teacherprints.org/demo_teacherprint)
 
 [<img src="images/demo-3c.png?raw=true"/>](https://teacherprints.org/demo_speakerwheel)
-
----
-<p style="font-size:11px">See the project website at <a href="https://teacherprints.org/">teacherprints.org.</a></p>
